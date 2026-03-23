@@ -17,7 +17,8 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* Richard
+* Walter
 
 ## Date created
 
