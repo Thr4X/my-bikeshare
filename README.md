@@ -1,6 +1,7 @@
 # My Bikeshare - udacity git course
 
 This is the readme for **My Bikeshare**. It's a simple git repo project to practice git handling.
+It analysis some raw bikeshare data.
 
 ## Information about how to use your project
 
