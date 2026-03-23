@@ -1,6 +1,6 @@
-# Project Title
+# My Bikeshare - udacity git course
 
-Describe what your project is about and what it does
+This is the readme for **My Bikeshare**. It's a simple git repo project to practice git handling.
 
 ## Information about how to use your project
 
